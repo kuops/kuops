@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1><img src="https://github.com/kuops/kuops/blob/master/images/ezgif-5-7c4b98cb8c1b.gif" align="left" width="30px" />Hi , I'm Shiny!</h1>
 
-<!--
-**kuops/kuops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img align="right" width="40%" src="https://github.com/kuops/kuops/blob/master/images/ezgif-5-51732a7b72f3.gif"></p>
 
-Here are some ideas to get you started:
+<p>I'm a SRE Engineer, Keep good mood every day!</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Keep Learning List</h2>
+
+<ul>
+<li><strong>OS</strong>: MacOS/Linux</li>
+<li><strong>IDE</strong>: VIM</li>
+<li><strong>Language</strong>: SHELL/GO/Lua/Ruby/Python</li>
+<li><strong>CloudNative</strong>: Kubernetes/Istio</li>
+</ul>
