@@ -10,5 +10,6 @@
 <li><strong>OS</strong>: MacOS/Linux</li>
 <li><strong>IDE</strong>: VIM</li>
 <li><strong>Language</strong>: SHELL/GO/Lua/Ruby/Python</li>
-<li><strong>CloudNative</strong>: Kubernetes/Istio</li>
+<li><strong>CloudNative</strong>: Kubernetes/Istio/Prometheus</li>
+<li><strong>Devops</strong>: Jenkins/Argo </li>
 </ul>
