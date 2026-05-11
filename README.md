@@ -28,7 +28,7 @@
       </p>
     </td>
     <td valign="center" width="75%" align="center">
-      <img src="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778487906738.svg" width="100%"/>
+      <img src="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778490999950.svg" width="100%"/>
     </td>
   </tr>
 </table>
