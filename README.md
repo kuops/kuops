@@ -15,7 +15,7 @@
   <tr>
     <td valign="top" width="55%">
       <h4>🚀 关于我 / About Me</h4>
-      <p><b>SRE Engineer</b> 运维专家</p>
+      <p><b>SRE Engineer</b> 运维工程师</p>
       <p><i>"Keep good mood every day and let the systems run smoothly!"</i></p>
       <hr />
       <h4>🛠️ 技术栈 / Tech Stack</h4>
@@ -30,8 +30,8 @@
       <hr />
       <h4>📬 联系我 / Connect</h4>
       <p>
-        <a href="mailto:你的邮箱"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> 
-        <a href="你的博客链接"><img src="https://img.shields.io/badge/Blog-FFCA28?style=flat-square&logo=rss&logoColor=black" /></a>
+        <a href="mailto:opshsy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> 
+        <a href="https://kuops.github.io"><img src="https://img.shields.io/badge/Blog-FFCA28?style=flat-square&logo=rss&logoColor=black" /></a>
       </p>
     </td>
     <td valign="center" width="45%" align="center">

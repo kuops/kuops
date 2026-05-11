@@ -1,0 +1,67 @@
+[
+  {
+    "input": "init --profile shiny",
+    "output": [
+      {
+        "content": "| Loading Info...",
+        "replace": true
+      },
+      {
+        "content": "/ Loading Info...",
+        "replace": true
+      },
+      {
+        "content": "- Loading Info...",
+        "replace": true
+      },
+      {
+        "content": "\\ Loading Info...",
+        "replace": true
+      },
+      "<br/>",
+      "<span style=\"color:#25BC24\">I'm Shiny, a Site Reliability Engineer living in Ring 3, but daily dreaming of a privileged escape to Ring 0.</span>",
+      "<br/>",
+      "<b>Infrastructure:</b>",
+      "<span style=\"color:#33BBC8\">Linux, Containers, Kubernetes, CI/CD, Observability</span>",
+      "<br/>",
+      "<b>On The Road:</b>",
+      "<span style=\"color:#33BBC8\">x86_64 Asm, Binary Reverse Engineering</span>",
+      "<br/>",
+      "<span style=\"color:#25BC24\">✔︎ All Systems Operational</span><br/><br/>"
+    ]
+  },
+  {
+    "input": "ls -al /skills",
+    "output": [
+      "<br/>total 7",
+      "drwxr-xr-x  2 shiny  root  4096 May 11 <span style=\"color:#33BBC8\">Linux</span>",
+      "drwxr-xr-x  2 shiny  root  4096 May 11 <span style=\"color:#33BBC8\">Containers</span>",
+      "drwxr-xr-x  2 shiny  root  4096 May 11 <span style=\"color:#33BBC8\">Kubernetes</span>",
+      "drwxr-xr-x  2 shiny  root  4096 May 11 <span style=\"color:#33BBC8\">CI/CD</span>",
+      "drwxr-xr-x  2 shiny  root  4096 May 11 <span style=\"color:#33BBC8\">Observability</span>",
+      "drwxr-xr-x  2 shiny  root  4096 May 11 <span style=\"color:#33BBC8\">Languages</span>",
+      "drwxr-xr-x  2 shiny  root  4096 May 11 <span style=\"color:#33BBC8\">Reverse</span>",
+      "<br/><b>Index :: Directory Mapping</b>",
+      "<span style=\"color:#33BBC8\">Linux        </span> :: Shell Script, Systemd, Nginx, Othrers",
+      "<span style=\"color:#33BBC8\">Containers    </span> :: Dockerfile, Docker Compose",
+      "<span style=\"color:#33BBC8\">Kubernetes   </span> :: Yaml, Ingress, Crds, Operator",
+      "<span style=\"color:#33BBC8\">CI/CD        </span> :: Jenkins Shared Library, Steps Orchestration, Ansible",
+      "<span style=\"color:#33BBC8\">Observability</span> :: Prometheus, Grafana, ELK Stack",
+      "<span style=\"color:#33BBC8\">Languages    </span> :: Go, Python",
+      "<span style=\"color:#33BBC8\">Reverse      </span> :: Binary Analysis & Debugging &&  x86_64 Assembly (Learning...)",
+      "<br/><span style=\"color:#999\">/* Maintaining high availability while exploring the bits */</span><br/><br/>"
+    ]
+  },
+  {
+    "input": {
+      "content": "cat contacts.yml"
+    },
+    "output": [
+      "<br/>Fetching contact info...",
+      "--------------------------",
+      "Email:  <span style=\"color:#33BBC8\">kuops@gmail.com</span>",
+      "Blog:   <span style=\"color:#33BBC8\">https://kuops.github.io</span>",
+      "Status: <span style=\"color:#25BC24\">Steady progressing towards Ring 0...</span>"
+    ]
+  }
+]
