@@ -7,19 +7,12 @@
 
 
 <h2>
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  width="25px" style="vertical-align:middle" /> Skills 
+<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif"  width="25px" style="vertical-align:middle" /> Profile 
 </h2>
 
 
 
 <a href="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg"><img src="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg"/></a>
-
-
-### 📬 Contact
-
-[![Email](https://img.shields.io/badge/Email-kuops%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:kuops@gmail.com)
-<br/>
-[![Blog](https://img.shields.io/badge/Blog-kuops.github.io-FFCA28?style=flat-square&logo=rss&logoColor=black)](https://kuops.github.io)
 
 ---
 
