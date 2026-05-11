@@ -12,7 +12,7 @@
 
 
 
-<a href="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg"><img src="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg"/></a>
+<a href="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg"><img src="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg?refresh=true"/></a>
 
 ---
 
