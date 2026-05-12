@@ -1,1 +1,506 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" width="800" height="540"><foreignObject width="100%" height="100%"><style>@import url("https://fonts.googleapis.com/css?family=Inconsolata");._2l3 { max-width: 100%; box-sizing: border-box; display: flex; align-items: center; justify-content: center; }._2nh { padding: 30px; }._1eR { display: flex; flex-direction: column; width: 100%; height: 100%; overflow: hidden; border-radius: 5px; user-select: none; background: #282c34; position: relative; }._2nh ._1eR { background: #282c34; box-shadow: rgba(0, 0, 0, 0.47) 0px 26px 43px 0px, rgba(0, 0, 0, 0.34) 0px 0px 2px 0px; }._H5 { border-radius: 5px 5px 0px 0px; text-overflow: ellipsis; padding: 0px 80px; white-space: nowrap; overflow: hidden; line-height: 24px; text-align: center; color: #5c6370; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; background: #1a1a1a; border-top: 0.5px solid #222; border-bottom: 1px solid #000; }._2SF, ._H5 { height: 25px; }._2SF::before { content: ""; position: absolute; top: 7px; left: 10px; width: 10px; height: 10px; background: rgb(249, 92, 91); border-radius: 100%; box-shadow: rgb(218, 61, 66) 0px 0px 0px 1px, rgb(250, 190, 59) 20px 0px 0px 0px, rgb(236, 176, 62) 20px 0px 0px 1px, rgb(56, 205, 70) 40px 0px 0px 0px, rgb(46, 174, 50) 40px 0px 0px 1px; }._1jg { display: flex; flex-direction: column-reverse; flex: 1 1 0%; overflow: auto; font-family: Inconsolata, Consolas, "Lucida Console", "Lucida Sans Typewriter", Monaco, monospace; font-size: 14px; line-height: 1.36; letter-spacing: 0.03em; color: #abb2bf; white-space: pre-wrap; }._13V { flex: 1 1 0%; padding: 12px; }._2mO { padding: 0px 9px 0px 0px; }._2mO, .gR9 { display: inline-flex; flex-wrap: wrap; vertical-align: middle; }._3ej, .gR9 { user-select: text; }._2mO, ._3ej, .gR9, .gR9 span { width: 0px; height: 0px; overflow: hidden; animation: 0.001ms linear 0s 1 normal forwards running _1aq; }._1Ji { animation: 0.001ms linear 0s 1 normal forwards running _1aq, 0ms linear 0s 1 normal forwards running yZD; }._30K { display: inline-block; vertical-align: middle; background: #abb2bf; animation: 0.001ms linear 0s 1 normal forwards running hOP, 0ms linear 0s 1 normal forwards running yZD; }@keyframes _1aq {   100% { width: auto; height: auto; }}@keyframes yZD {   100% { width: 0px; height: 0px; }}@keyframes hOP {   100% { width: 7px; height: 17px; }}</style><div xmlns="http://www.w3.org/1999/xhtml" class="_1Ao"><div class="_2l3 _2nh" style="width: 800px; height: 540px; background-image: linear-gradient(transparent,transparent);"><div class="_1eR"><div class="_H5 _2SF">~/shiny</div><div class="_1jg"><div class="_13V"><div class="_2mO" style="color: #d19a66; animation-delay: 0ms;">~&gt;</div><div class="gR9" style="animation-delay: 0ms;"><span style="animation-delay: 750ms;">i</span><span style="animation-delay: 785ms;">n</span><span style="animation-delay: 820ms;">i</span><span style="animation-delay: 855ms;">t</span><span style="animation-delay: 890ms;"> </span><span style="animation-delay: 925ms;">-</span><span style="animation-delay: 960ms;">-</span><span style="animation-delay: 995ms;">p</span><span style="animation-delay: 1030ms;">r</span><span style="animation-delay: 1065ms;">o</span><span style="animation-delay: 1100ms;">f</span><span style="animation-delay: 1135ms;">i</span><span style="animation-delay: 1170ms;">l</span><span style="animation-delay: 1205ms;">e</span><span style="animation-delay: 1240ms;"> </span><span style="animation-delay: 1275ms;">s</span><span style="animation-delay: 1310ms;">h</span><span style="animation-delay: 1345ms;">i</span><span style="animation-delay: 1380ms;">n</span><span style="animation-delay: 1415ms;">y</span><span style="animation-delay: 1450ms;"> </span><span style="animation-delay: 1485ms;">s</span><span style="animation-delay: 1520ms;">k</span><span style="animation-delay: 1555ms;">i</span><span style="animation-delay: 1590ms;">l</span><span style="animation-delay: 1625ms;">l</span><span style="animation-delay: 1660ms;">s</span></div><div class="_30K" style="animation-delay: 0ms, 2045ms;"></div><div class="_3ej" style="animation-delay: 2545ms;"><br /><b>Index :: Skills Mapping</b></div><div class="_3ej" style="animation-delay: 3045ms;"><span style="color:#61afef">Linux        </span> :: Shell Script, Systemd, Nginx, Othrers</div><div class="_3ej" style="animation-delay: 3545ms;"><span style="color:#61afef">Containers   </span> :: Dockerfile, Docker Compose</div><div class="_3ej" style="animation-delay: 4045ms;"><span style="color:#61afef">Kubernetes   </span> :: Yaml, Ingress, Crds, Operator</div><div class="_3ej" style="animation-delay: 4545ms;"><span style="color:#61afef">CI/CD        </span> :: Jenkins Shared Library, Steps Orchestration, Ansible</div><div class="_3ej" style="animation-delay: 5045ms;"><span style="color:#61afef">Observability</span> :: Prometheus, Grafana, ELK Stack</div><div class="_3ej" style="animation-delay: 5545ms;"><span style="color:#61afef">Languages    </span> :: Go, Python</div><div class="_3ej" style="animation-delay: 6045ms;"><span style="color:#61afef">Reverse      </span> :: Binary Analysis &amp; Debugging &amp;&amp;  x86_64 Assembly (Learning...)</div><div class="_3ej" style="animation-delay: 6545ms;"><br /><span style="color:#5c6370">/* Vibe Coding to Create, Reverse Engineering to understand every bit. */</span><br /><br /></div><div class="_2mO" style="color: #d19a66; animation-delay: 6545ms;">~&gt;</div><div class="gR9" style="animation-delay: 6545ms;"><span style="animation-delay: 7295ms;">c</span><span style="animation-delay: 7330ms;">a</span><span style="animation-delay: 7365ms;">t</span><span style="animation-delay: 7400ms;"> </span><span style="animation-delay: 7435ms;">c</span><span style="animation-delay: 7470ms;">o</span><span style="animation-delay: 7505ms;">n</span><span style="animation-delay: 7540ms;">t</span><span style="animation-delay: 7575ms;">a</span><span style="animation-delay: 7610ms;">c</span><span style="animation-delay: 7645ms;">t</span><span style="animation-delay: 7680ms;">s</span><span style="animation-delay: 7715ms;">.</span><span style="animation-delay: 7750ms;">y</span><span style="animation-delay: 7785ms;">m</span><span style="animation-delay: 7820ms;">l</span></div><div class="_30K" style="animation-delay: 6545ms, 7645ms;"></div><div class="_3ej" style="animation-delay: 8145ms;"><br />Fetching contact info...</div><div class="_3ej" style="animation-delay: 8645ms;">--------------------------</div><div class="_3ej" style="animation-delay: 9145ms;">Email:  <span style="color:#c678dd">kuops@gmail.com</span></div><div class="_3ej" style="animation-delay: 9645ms;">Blog:   <span style="color:#e5c07b">https://kuops.github.io</span></div><div class="_3ej" style="animation-delay: 10145ms;">Status: <span style="color:#25BC24">Steady progressing towards Ring 0...</span></div></div></div></div></div></div></foreignObject></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" width="800" height="540"><foreignObject width="100%" height="100%"><style>@import url("https://fonts.googleapis.com/css?family=Inconsolata");._2l3 { max-width: 100%; box-sizing: border-box; display: flex; align-items: center; justify-content: center; }._2nh { padding: 30px; }._1eR { display: flex; flex-direction: column; width: 100%; height: 100%; overflow: hidden; border-radius: 5px; user-select: none; background: #282c34; position: relative; }._2nh ._1eR { background: #282c34; box-shadow: rgba(0, 0, 0, 0.47) 0px 26px 43px 0px, rgba(0, 0, 0, 0.34) 0px 0px 2px 0px; }._H5 { border-radius: 5px 5px 0px 0px; text-overflow: ellipsis; padding: 0px 80px; white-space: nowrap; overflow: hidden; line-height: 24px; text-align: center; color: #5c6370; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; font-size: 14px; background: #1a1a1a; border-top: 0.5px solid #222; border-bottom: 1px solid #000; }._2SF, ._H5 { height: 25px; }._2SF::before { content: ""; position: absolute; top: 7px; left: 10px; width: 10px; height: 10px; background: rgb(249, 92, 91); border-radius: 100%; box-shadow: rgb(218, 61, 66) 0px 0px 0px 1px, rgb(250, 190, 59) 20px 0px 0px 0px, rgb(236, 176, 62) 20px 0px 0px 1px, rgb(56, 205, 70) 40px 0px 0px 0px, rgb(46, 174, 50) 40px 0px 0px 1px; }._1jg { display: flex; flex-direction: column-reverse; flex: 1 1 0%; overflow: auto; font-family: Inconsolata, Consolas, "Lucida Console", "Lucida Sans Typewriter", Monaco, monospace; font-size: 14px; line-height: 1.36; letter-spacing: 0.03em; color: #abb2bf; white-space: pre-wrap; }._13V { flex: 1 1 0%; padding: 12px; }._2mO { padding: 0px 9px 0px 0px; }._2mO, .gR9 { display: inline-flex; flex-wrap: wrap; vertical-align: middle; }._3ej, .gR9 { user-select: text; }._2mO, ._3ej, .gR9, .gR9 span { width: 0px; height: 0px; overflow: hidden; }._1Ji { }._30K { display: inline-block; vertical-align: middle; background: #abb2bf; }
+@keyframes _r0 {
+  0% { width: 0px; height: 0px; overflow: hidden; }
+  0.008% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r1 {
+  0%, 50.346% { width: 0px; height: 0px; overflow: hidden; }
+  50.354% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r2 {
+  0% { width: 0px; height: 0px; overflow: hidden; }
+  0.008% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r3 {
+  0%, 50.346% { width: 0px; height: 0px; overflow: hidden; }
+  50.354% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r4 {
+  0%, 5.769% { width: 0px; height: 0px; overflow: hidden; }
+  5.777% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r5 {
+  0%, 6.038% { width: 0px; height: 0px; overflow: hidden; }
+  6.046% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r6 {
+  0%, 6.308% { width: 0px; height: 0px; overflow: hidden; }
+  6.316% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r7 {
+  0%, 6.577% { width: 0px; height: 0px; overflow: hidden; }
+  6.585% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r8 {
+  0%, 6.846% { width: 0px; height: 0px; overflow: hidden; }
+  6.854% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r9 {
+  0%, 7.115% { width: 0px; height: 0px; overflow: hidden; }
+  7.123% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r10 {
+  0%, 7.385% { width: 0px; height: 0px; overflow: hidden; }
+  7.393% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r11 {
+  0%, 7.654% { width: 0px; height: 0px; overflow: hidden; }
+  7.662% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r12 {
+  0%, 7.923% { width: 0px; height: 0px; overflow: hidden; }
+  7.931% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r13 {
+  0%, 8.192% { width: 0px; height: 0px; overflow: hidden; }
+  8.2% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r14 {
+  0%, 8.462% { width: 0px; height: 0px; overflow: hidden; }
+  8.47% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r15 {
+  0%, 8.731% { width: 0px; height: 0px; overflow: hidden; }
+  8.739% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r16 {
+  0%, 9.0% { width: 0px; height: 0px; overflow: hidden; }
+  9.008% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r17 {
+  0%, 9.269% { width: 0px; height: 0px; overflow: hidden; }
+  9.277% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r18 {
+  0%, 9.538% { width: 0px; height: 0px; overflow: hidden; }
+  9.546% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r19 {
+  0%, 9.808% { width: 0px; height: 0px; overflow: hidden; }
+  9.816% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r20 {
+  0%, 10.077% { width: 0px; height: 0px; overflow: hidden; }
+  10.085% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r21 {
+  0%, 10.346% { width: 0px; height: 0px; overflow: hidden; }
+  10.354% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r22 {
+  0%, 10.615% { width: 0px; height: 0px; overflow: hidden; }
+  10.623% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r23 {
+  0%, 10.885% { width: 0px; height: 0px; overflow: hidden; }
+  10.893% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r24 {
+  0%, 11.154% { width: 0px; height: 0px; overflow: hidden; }
+  11.162% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r25 {
+  0%, 11.423% { width: 0px; height: 0px; overflow: hidden; }
+  11.431% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r26 {
+  0%, 11.692% { width: 0px; height: 0px; overflow: hidden; }
+  11.7% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r27 {
+  0%, 11.962% { width: 0px; height: 0px; overflow: hidden; }
+  11.97% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r28 {
+  0%, 12.231% { width: 0px; height: 0px; overflow: hidden; }
+  12.239% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r29 {
+  0%, 12.5% { width: 0px; height: 0px; overflow: hidden; }
+  12.508% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r30 {
+  0%, 12.769% { width: 0px; height: 0px; overflow: hidden; }
+  12.777% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r31 {
+  0%, 56.115% { width: 0px; height: 0px; overflow: hidden; }
+  56.123% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r32 {
+  0%, 56.385% { width: 0px; height: 0px; overflow: hidden; }
+  56.393% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r33 {
+  0%, 56.654% { width: 0px; height: 0px; overflow: hidden; }
+  56.662% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r34 {
+  0%, 56.923% { width: 0px; height: 0px; overflow: hidden; }
+  56.931% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r35 {
+  0%, 57.192% { width: 0px; height: 0px; overflow: hidden; }
+  57.2% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r36 {
+  0%, 57.462% { width: 0px; height: 0px; overflow: hidden; }
+  57.47% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r37 {
+  0%, 57.731% { width: 0px; height: 0px; overflow: hidden; }
+  57.739% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r38 {
+  0%, 58.0% { width: 0px; height: 0px; overflow: hidden; }
+  58.008% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r39 {
+  0%, 58.269% { width: 0px; height: 0px; overflow: hidden; }
+  58.277% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r40 {
+  0%, 58.538% { width: 0px; height: 0px; overflow: hidden; }
+  58.546% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r41 {
+  0%, 58.808% { width: 0px; height: 0px; overflow: hidden; }
+  58.816% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r42 {
+  0%, 59.077% { width: 0px; height: 0px; overflow: hidden; }
+  59.085% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r43 {
+  0%, 59.346% { width: 0px; height: 0px; overflow: hidden; }
+  59.354% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r44 {
+  0%, 59.615% { width: 0px; height: 0px; overflow: hidden; }
+  59.623% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r45 {
+  0%, 59.885% { width: 0px; height: 0px; overflow: hidden; }
+  59.893% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r46 {
+  0%, 60.154% { width: 0px; height: 0px; overflow: hidden; }
+  60.162% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r47 {
+  0%, 19.577% { width: 0px; height: 0px; overflow: hidden; }
+  19.585% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r48 {
+  0%, 23.423% { width: 0px; height: 0px; overflow: hidden; }
+  23.431% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r49 {
+  0%, 27.269% { width: 0px; height: 0px; overflow: hidden; }
+  27.277% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r50 {
+  0%, 31.115% { width: 0px; height: 0px; overflow: hidden; }
+  31.123% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r51 {
+  0%, 34.962% { width: 0px; height: 0px; overflow: hidden; }
+  34.97% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r52 {
+  0%, 38.808% { width: 0px; height: 0px; overflow: hidden; }
+  38.816% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r53 {
+  0%, 42.654% { width: 0px; height: 0px; overflow: hidden; }
+  42.662% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r54 {
+  0%, 46.5% { width: 0px; height: 0px; overflow: hidden; }
+  46.508% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r55 {
+  0%, 50.346% { width: 0px; height: 0px; overflow: hidden; }
+  50.354% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r56 {
+  0%, 62.654% { width: 0px; height: 0px; overflow: hidden; }
+  62.662% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r57 {
+  0%, 66.5% { width: 0px; height: 0px; overflow: hidden; }
+  66.508% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r58 {
+  0%, 70.346% { width: 0px; height: 0px; overflow: hidden; }
+  70.354% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r59 {
+  0%, 74.192% { width: 0px; height: 0px; overflow: hidden; }
+  74.2% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r60 {
+  0%, 78.038% { width: 0px; height: 0px; overflow: hidden; }
+  78.046% { width: auto; height: auto; overflow: visible; }
+  96.8% { width: auto; height: auto; overflow: visible; }
+  97.3% { width: 0px; height: 0px; overflow: hidden; }
+  100% { width: 0px; height: 0px; overflow: hidden; }
+}
+@keyframes _r61 {
+  0% { width: 0px; height: 0px; }
+  0.008% { width: 7px; height: 17px; }
+  15.731% { width: 7px; height: 17px; }
+  15.739% { width: 0px; height: 0px; }
+  100% { width: 0px; height: 0px; }
+}
+@keyframes _r62 {
+  0%, 50.346% { width: 0px; height: 0px; }
+  50.354% { width: 7px; height: 17px; }
+  58.808% { width: 7px; height: 17px; }
+  58.816% { width: 0px; height: 0px; }
+  100% { width: 0px; height: 0px; }
+}
+._r0 { animation: 13000ms linear 0s infinite normal none running _r0; }
+._r1 { animation: 13000ms linear 0s infinite normal none running _r1; }
+._r2 { animation: 13000ms linear 0s infinite normal none running _r2; }
+._r3 { animation: 13000ms linear 0s infinite normal none running _r3; }
+._r4 { animation: 13000ms linear 0s infinite normal none running _r4; }
+._r5 { animation: 13000ms linear 0s infinite normal none running _r5; }
+._r6 { animation: 13000ms linear 0s infinite normal none running _r6; }
+._r7 { animation: 13000ms linear 0s infinite normal none running _r7; }
+._r8 { animation: 13000ms linear 0s infinite normal none running _r8; }
+._r9 { animation: 13000ms linear 0s infinite normal none running _r9; }
+._r10 { animation: 13000ms linear 0s infinite normal none running _r10; }
+._r11 { animation: 13000ms linear 0s infinite normal none running _r11; }
+._r12 { animation: 13000ms linear 0s infinite normal none running _r12; }
+._r13 { animation: 13000ms linear 0s infinite normal none running _r13; }
+._r14 { animation: 13000ms linear 0s infinite normal none running _r14; }
+._r15 { animation: 13000ms linear 0s infinite normal none running _r15; }
+._r16 { animation: 13000ms linear 0s infinite normal none running _r16; }
+._r17 { animation: 13000ms linear 0s infinite normal none running _r17; }
+._r18 { animation: 13000ms linear 0s infinite normal none running _r18; }
+._r19 { animation: 13000ms linear 0s infinite normal none running _r19; }
+._r20 { animation: 13000ms linear 0s infinite normal none running _r20; }
+._r21 { animation: 13000ms linear 0s infinite normal none running _r21; }
+._r22 { animation: 13000ms linear 0s infinite normal none running _r22; }
+._r23 { animation: 13000ms linear 0s infinite normal none running _r23; }
+._r24 { animation: 13000ms linear 0s infinite normal none running _r24; }
+._r25 { animation: 13000ms linear 0s infinite normal none running _r25; }
+._r26 { animation: 13000ms linear 0s infinite normal none running _r26; }
+._r27 { animation: 13000ms linear 0s infinite normal none running _r27; }
+._r28 { animation: 13000ms linear 0s infinite normal none running _r28; }
+._r29 { animation: 13000ms linear 0s infinite normal none running _r29; }
+._r30 { animation: 13000ms linear 0s infinite normal none running _r30; }
+._r31 { animation: 13000ms linear 0s infinite normal none running _r31; }
+._r32 { animation: 13000ms linear 0s infinite normal none running _r32; }
+._r33 { animation: 13000ms linear 0s infinite normal none running _r33; }
+._r34 { animation: 13000ms linear 0s infinite normal none running _r34; }
+._r35 { animation: 13000ms linear 0s infinite normal none running _r35; }
+._r36 { animation: 13000ms linear 0s infinite normal none running _r36; }
+._r37 { animation: 13000ms linear 0s infinite normal none running _r37; }
+._r38 { animation: 13000ms linear 0s infinite normal none running _r38; }
+._r39 { animation: 13000ms linear 0s infinite normal none running _r39; }
+._r40 { animation: 13000ms linear 0s infinite normal none running _r40; }
+._r41 { animation: 13000ms linear 0s infinite normal none running _r41; }
+._r42 { animation: 13000ms linear 0s infinite normal none running _r42; }
+._r43 { animation: 13000ms linear 0s infinite normal none running _r43; }
+._r44 { animation: 13000ms linear 0s infinite normal none running _r44; }
+._r45 { animation: 13000ms linear 0s infinite normal none running _r45; }
+._r46 { animation: 13000ms linear 0s infinite normal none running _r46; }
+._r47 { animation: 13000ms linear 0s infinite normal none running _r47; }
+._r48 { animation: 13000ms linear 0s infinite normal none running _r48; }
+._r49 { animation: 13000ms linear 0s infinite normal none running _r49; }
+._r50 { animation: 13000ms linear 0s infinite normal none running _r50; }
+._r51 { animation: 13000ms linear 0s infinite normal none running _r51; }
+._r52 { animation: 13000ms linear 0s infinite normal none running _r52; }
+._r53 { animation: 13000ms linear 0s infinite normal none running _r53; }
+._r54 { animation: 13000ms linear 0s infinite normal none running _r54; }
+._r55 { animation: 13000ms linear 0s infinite normal none running _r55; }
+._r56 { animation: 13000ms linear 0s infinite normal none running _r56; }
+._r57 { animation: 13000ms linear 0s infinite normal none running _r57; }
+._r58 { animation: 13000ms linear 0s infinite normal none running _r58; }
+._r59 { animation: 13000ms linear 0s infinite normal none running _r59; }
+._r60 { animation: 13000ms linear 0s infinite normal none running _r60; }
+._r61 { animation: 13000ms linear 0s infinite normal none running _r61; }
+._r62 { animation: 13000ms linear 0s infinite normal none running _r62; }
+</style><div xmlns="http://www.w3.org/1999/xhtml" class="_1Ao"><div class="_2l3 _2nh" style="width: 800px; height: 540px; background-image: linear-gradient(transparent,transparent);"><div class="_1eR"><div class="_H5 _2SF">~/shiny</div><div class="_1jg"><div class="_13V"><div class="_2mO _r0" style="color: #d19a66;">~&gt;</div><div class="gR9 _r2"><span class="_r4">i</span><span class="_r5">n</span><span class="_r6">i</span><span class="_r7">t</span><span class="_r8"> </span><span class="_r9">-</span><span class="_r10">-</span><span class="_r11">p</span><span class="_r12">r</span><span class="_r13">o</span><span class="_r14">f</span><span class="_r15">i</span><span class="_r16">l</span><span class="_r17">e</span><span class="_r18"> </span><span class="_r19">s</span><span class="_r20">h</span><span class="_r21">i</span><span class="_r22">n</span><span class="_r23">y</span><span class="_r24"> </span><span class="_r25">s</span><span class="_r26">k</span><span class="_r27">i</span><span class="_r28">l</span><span class="_r29">l</span><span class="_r30">s</span></div><div class="_30K _r61"></div><div class="_3ej _r47"><br /><b>Index :: Skills Mapping</b></div><div class="_3ej _r48"><span style="color:#61afef">Linux        </span> :: Shell Script, Systemd, Nginx, Othrers</div><div class="_3ej _r49"><span style="color:#61afef">Containers   </span> :: Dockerfile, Docker Compose</div><div class="_3ej _r50"><span style="color:#61afef">Kubernetes   </span> :: Yaml, Ingress, Crds, Operator</div><div class="_3ej _r51"><span style="color:#61afef">CI/CD        </span> :: Jenkins Shared Library, Steps Orchestration, Ansible</div><div class="_3ej _r52"><span style="color:#61afef">Observability</span> :: Prometheus, Grafana, ELK Stack</div><div class="_3ej _r53"><span style="color:#61afef">Languages    </span> :: Go, Python</div><div class="_3ej _r54"><span style="color:#61afef">Reverse      </span> :: Binary Analysis &amp; Debugging &amp;&amp;  x86_64 Assembly (Learning...)</div><div class="_3ej _r55"><br /><span style="color:#5c6370">/* Vibe Coding to Create, Reverse Engineering to understand every bit. */</span><br /><br /></div><div class="_2mO _r1" style="color: #d19a66;">~&gt;</div><div class="gR9 _r3"><span class="_r31">c</span><span class="_r32">a</span><span class="_r33">t</span><span class="_r34"> </span><span class="_r35">c</span><span class="_r36">o</span><span class="_r37">n</span><span class="_r38">t</span><span class="_r39">a</span><span class="_r40">c</span><span class="_r41">t</span><span class="_r42">s</span><span class="_r43">.</span><span class="_r44">y</span><span class="_r45">m</span><span class="_r46">l</span></div><div class="_30K _r62"></div><div class="_3ej _r56"><br />Fetching contact info...</div><div class="_3ej _r57">--------------------------</div><div class="_3ej _r58">Email:  <span style="color:#c678dd">kuops@gmail.com</span></div><div class="_3ej _r59">Blog:   <span style="color:#e5c07b">https://kuops.github.io</span></div><div class="_3ej _r60">Status: <span style="color:#25BC24">Steady progressing towards Ring 0...</span></div></div></div></div></div></div></foreignObject></svg>
