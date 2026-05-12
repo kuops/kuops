@@ -12,7 +12,7 @@
 
 
 
-<a href="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg"><img src="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg"/></a>
+<a href="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg"><img src="https://raw.githubusercontent.com/kuops/kuops/refs/heads/master/images/term-sheet-1778512979043.svg?"/></a>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=466BB0&height=60&section=footer" width="100%"/>
